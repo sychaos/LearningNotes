@@ -18,7 +18,7 @@
     * [事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
     * [ANR问题](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/ANR问题.md)
     * [Art和Dalvik的区别](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Art和Dalvik区别.md)
-    * [Android关于OOM的解决方案](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android关于oom的解决方案.md)
+    * [Android关于OOM的解决方案(mark)](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android关于oom的解决方案.md)
     * [Fragment](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Fragment.md)
     * [Activity&Fragment](https://github.com/xxv/android-lifecycle)
     * [SurfaceView](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/SurfaceView.md)
