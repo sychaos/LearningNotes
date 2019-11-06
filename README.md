@@ -96,6 +96,7 @@
   * [HashMap源码剖析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/HashMap源码剖析.md)
   * [HashTable源码剖析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/HashTable源码剖析.md)
   * [LinkedHashMap源码剖析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/LinkedHashMap源码剖析.md)
+  * CopyOnWriteArrayList
 
 * [JVM(Java虚拟机)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part2/JVM)
   * [JVM基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM.md)
