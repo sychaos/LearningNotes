@@ -46,6 +46,7 @@
     * [Gradle](http://wuxiaolong.me/categories/Gradle/)
     * [查漏补缺](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/查漏补缺.md)
     * [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
+    * [从源码角度看finish()方法的执行流程](https://www.cnblogs.com/absfree/p/5547384.html)
 
 
 
