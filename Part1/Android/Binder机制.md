@@ -1,4 +1,4 @@
-#Binder机制
+#Binder机制（重要）
 ---
 
 首先Binder是Android系统进程间通信(IPC)方式之一。
