@@ -36,7 +36,6 @@
     * [Android开机过程](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android开机过程.md)
     * [Retrofit源码分析](http://www.jianshu.com/p/c1a3a881a144)
     * [Glide源码分析](http://frodoking.github.io/2015/10/10/android-glide/)
-    * [EventBus用法详解](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/EventBus用法详解.md)
     * [EventBus源码分析](http://p.codekk.com/blogs/detail/54cfab086c4761e5001b2538)
     * [Android ORM 框架之 greenDAO 使用心得](http://www.open-open.com/lib/view/open1438065400878.html)
     * [Data Binding（数据绑定）用户指南](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0606/3005.html)
