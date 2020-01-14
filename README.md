@@ -99,7 +99,7 @@
   * [LinkedHashMap源码剖析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/LinkedHashMap源码剖析.md)
   * [CopyOnWriteArrayList](https://juejin.im/post/5aeeb55f5188256715478c21)
   * [读写锁](https://juejin.im/post/5aeb0e016fb9a07ab7740d90)
-  * ConcurrentHashMap
+  * [ConcurrentHashMap](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
 
 * [JVM(Java虚拟机)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part2/JVM)
   * [JVM基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM.md)
