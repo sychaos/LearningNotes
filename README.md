@@ -200,10 +200,13 @@
     * [新浪微博](https://github.com/GeniusVJR/LearningNotes/blob/master/Part6/InterviewExperience/新浪微博.md)
     * [网易杭研](https://github.com/GeniusVJR/LearningNotes/blob/master/Part6/InterviewExperience/网易杭研.md)
 
+   
+
 ---
 
-* [Resume(简历)](https://zhuanlan.zhihu.com/p/20672941)
+## 第七部分 不错的博客
 
+* [你听___](https://juejin.im/user/5aa7dcf451882555880513ab/posts)
 
 ---
 
