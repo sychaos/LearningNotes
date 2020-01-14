@@ -97,8 +97,9 @@
   * [HashMap源码剖析 重点号重点号](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/HashMap源码剖析.md)
   * [HashTable源码剖析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/HashTable源码剖析.md)
   * [LinkedHashMap源码剖析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/LinkedHashMap源码剖析.md)
-  * CopyOnWriteArrayList
-  * concurrentHashMap
+  * [CopyOnWriteArrayList](https://juejin.im/post/5aeeb55f5188256715478c21)
+  * [读写锁](https://juejin.im/post/5aeb0e016fb9a07ab7740d90)
+  * ConcurrentHashMap
 
 * [JVM(Java虚拟机)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part2/JVM)
   * [JVM基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM.md)
