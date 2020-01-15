@@ -102,6 +102,7 @@
   * [ConcurrentHashMap](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
 
 * [JVM(Java虚拟机)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part2/JVM)
+  * [java内存模型](https://www.jianshu.com/p/15106e9c4bf3)
   * [JVM基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM.md)
   * [JVM类加载机制](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/JVM类加载机制.md)
   * [Java内存区域与内存溢出](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JVM/Java内存区域与内存溢出.md)
