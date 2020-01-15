@@ -164,6 +164,8 @@ Java的内存回收机制可以形象地理解为在堆空间中引入了重力�
 
 **Minor GC与Full GC分别在什么时候发生？**
 
+[博客](https://blog.csdn.net/Alpha_Paser/article/details/82533128)
+
 Minor GC：通常是指对新生代的回收。指发生在新生代的垃圾收集动作，因为 Java 对象大多都具备朝生夕灭的特性，所以 Minor GC 非常频繁，一般回收速度也比较快
 
 Major GC：通常是指对年老代的回收。
