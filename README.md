@@ -47,6 +47,7 @@
     * [Git操作](https://github.com/sychaos/LearningNotes/blob/master/Part1/Android/Git操作.md)
     * [从源码角度看finish()方法的执行流程](https://www.cnblogs.com/absfree/p/5547384.html)
     * [Looper.loop()里的死循环不会卡死](https://www.zhihu.com/question/34652589)
+    * [为什么AsyncTask一定要在主线程中创建？execute方法一定要在主线程中调用](https://www.jianshu.com/p/ee83068efa8e)
 
 
 
