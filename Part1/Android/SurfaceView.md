@@ -1,3 +1,4 @@
+[链接](https://www.jianshu.com/p/c185ac68d8cd)
 ##为什么要使用SurfaceView来实现动画？
 ###因为View的绘图存在以下缺陷：
 1. View缺乏双缓冲机制
