@@ -1,5 +1,7 @@
 #Binder机制
 ---
+(链接)[https://blog.csdn.net/augfun/article/details/82343249]
+
 
 首先Binder是Android系统进程间通信(IPC)方式之一。
 
